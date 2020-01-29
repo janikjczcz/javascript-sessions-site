@@ -41,7 +41,11 @@
     "type": "git",
     "url": "git+https://github.com/janikjczcz/js-sessions-site.git"
   },
-  "keywords": ["javascript", "training", "eleventy"],
+  "keywords": [
+    "javascript",
+    "training",
+    "eleventy"
+  ],
   "author": "Jaroslav Janik",
   "license": "MIT",
   "bugs": {
