@@ -1,7 +1,7 @@
 {
   "name": "hylia",
   "version": "0.5.1",
-  "description": "A simple Eleventy starter kit to help you have a blog of your own",
+  "description": "Simple site for JavaScript Training sessions build with Eleventy",
   "main": "index.js",
   "dependencies": {
     "@11ty/eleventy": "^0.8.3",
@@ -39,13 +39,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hankchizljaw/hylia.git"
+    "url": "git+https://github.com/janikjczcz/js-sessions-site.git"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["javascript", "training", "eleventy"],
+  "author": "Jaroslav Janik",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/hankchizljaw/hylia/issues"
+    "url": "https://github.com/janikjczcz/js-sessions-site"
   },
-  "homepage": "https://github.com/hankchizljaw/hylia#readme"
+  "homepage": "https://github.com/janikjczcz/js-sessions-site/blob/master/README.md"
 }

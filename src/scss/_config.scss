@@ -120,7 +120,8 @@ $stalfos-config: (
     'items': (
       'between': 'space-between',
       'around': 'space-around',
-      'before': 'flex-end'
+      'before': 'flex-end',
+      'center': 'center'
     ),
     'output': 'responsive',
     'property': 'justify-content'
