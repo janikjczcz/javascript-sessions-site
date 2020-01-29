@@ -39,7 +39,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/janikjczcz/js-sessions-site.git"
+    "url": "git+https://github.com/janikjczcz/javascript-sessions-site.git"
   },
   "keywords": [
     "javascript",
@@ -49,7 +49,7 @@
   "author": "Jaroslav Janik",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/janikjczcz/js-sessions-site"
+    "url": "https://github.com/janikjczcz/javascript-sessions-site"
   },
-  "homepage": "https://github.com/janikjczcz/js-sessions-site/blob/master/README.md"
+  "homepage": "https://github.com/janikjczcz/javascript-sessions-site/blob/master/README.md"
 }
