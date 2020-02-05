@@ -10,3 +10,5 @@ tags:
 1. Go to course page on [Udemy](https://www.udemy.com/course/modern-javascript/)
 2. Watch and follow 6 videos in section **Setting Up Your Machine**
 3. If you have any questions or get errors while setup feel free to send **DM** or come see me at my desk and I'll try to help.
+
+[Back Home](/)
