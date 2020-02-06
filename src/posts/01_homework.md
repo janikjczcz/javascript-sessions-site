@@ -1,7 +1,7 @@
 ---
 title: Homework for Lesson 01
 summary: Excercise for variables, strings and numbers
-date: '2021-02-06'
+date: '2020-02-06'
 tags:
   - homework
   - variables
