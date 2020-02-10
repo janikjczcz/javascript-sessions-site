@@ -15,8 +15,18 @@ tags:
 3. Create variable with name "my favorite character" which will have all information created in last step, separated by comma and space. The first and last name will have only space in between.
 4. Output the last variable to console.
 
-__Expected output:__
+__Solution:__
 ```javascript
+let firstName = 'Tony'
+let lastName = 'Stark'
+let alias = 'Iron Man'
+let city = 'New York'
+let country = 'United States'
+let origin = 'Avengers'
+// put them all together
+let myFavoriteCharacter = firstName + ' ' + lastName + ', ' + alias + ', ' + city + ', ' + country + ', ' + origin
+console.log(myFavoriteCharacter)
+// output
 Tony Stark, Iron Man, New York, United States, Avengers
 ```
 
@@ -28,12 +38,17 @@ Tony Stark, Iron Man, New York, United States, Avengers
 2. Calculate dog age in human years inside hooman age variable using this formula:<br> 1 Dog year is 7 Human years
 3. Output the hooman age to the console.
 
-__Expected output (if dog is 4 years old):__
+__Solution (if dog is 4 years old):__
 ```javascript
+let doggoAge = 4
+let hoomanAge = doggoAge * 7
+// show output
+console.log(hoomanAge)
+// result
 28
 ```
 
 - - -
-#### Solutions will be posted here on Monday evening
+
 
 [Back Home](/)
