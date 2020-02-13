@@ -1,0 +1,60 @@
+<h3>More on Variables</h3>
+<p><strong>1. You can't define a variable more than once</strong></p>
+<pre><code class="language-javascript">let petName = 'Weasley'
+let petName = 'Tom' // will show error
+console.log(petName) 
+</code></pre>
+<pre><code class="language-javascript">let petName = 'Weasley'
+petName = 'Tom' // will work
+console.log(petName) // output: Tom
+</code></pre>
+<p><strong>2. There are rules related to variable names</strong></p>
+<ul>
+<li>$, _, a-z, no numbers at start of name</li>
+<li>$ and _ are only allowed symbols</li>
+</ul>
+<pre><code class="language-javascript">let 3 = 2 // will show error
+let result = 3+4 // will work
+</code></pre>
+<p><strong>3. Variable names cannot be reserved keywords</strong></p>
+<pre><code class="language-javascript">let let = 12 // will show error
+let lett = 12 // will work
+</code></pre>
+<hr>
+<h3>Temperature converter</h3>
+<pre><code class="language-javascript">let fahrenheit = 32
+
+// Calculate celsius and store in celsius variable
+// print that value
+let celsius = (fahrenheit - 32) * 5 / 9
+console.log(celsius)
+</code></pre>
+<p><strong>output: 0</strong></p>
+<pre><code class="language-javascript">let fahrenheit = 32
+
+// Calculate kelvin value and store in variable
+// print that value
+let kelvin = (fahrenheit + 459.67) * 5 / 9
+console.log(kelvin)
+</code></pre>
+<p><strong>output: 273.15</strong></p>
+<hr>
+<h3>Booleans</h3>
+<pre><code class="language-javascript">let isFreezing = true
+let isFreezing = false
+</code></pre>
+<p><strong>Booleans have only two values: true or false</strong></p>
+<hr>
+<h3>Comparison operators</h3>
+<p><strong>=== - equality operator</strong><br>
+<strong>!== - not equal operator</strong><br>
+<strong>&lt; - less than operator</strong><br>
+<strong>&gt; - greater than operator</strong><br>
+<strong>&lt;= - less than or equal operator</strong><br>
+<strong>&gt;= - greater than or equal operator</strong><br></p>
+<hr>
+<h3>If statements</h3>
+<p><strong>If statements are used for conditional logic</strong></p>
+<pre><code class="language-javascript">
+</code></pre>
+<p><a href="/">Back Home</a></p>
