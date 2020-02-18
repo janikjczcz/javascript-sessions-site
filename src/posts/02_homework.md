@@ -21,6 +21,10 @@ __Example output:__
 "Age is 12 and correct size is 134cm+"
 ```
 
+#### Solution for this homework:
+[Homework 02](https://codepen.io/janikjczcz/full/gOpMwbq)
+**Go to editor view to see the code**
+
 - - -
 
 
