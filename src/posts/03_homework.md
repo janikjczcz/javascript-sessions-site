@@ -22,8 +22,9 @@ __Example output:__
 "You are sad human, you should smile more. :)"
 ```
 
-
-
+#### Solution for this homework:
+[Homework 03](https://codepen.io/janikjczcz/full/ZEGeood)
+**Go to editor view to see the code**
 
 - - -
 
