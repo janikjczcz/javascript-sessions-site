@@ -23,7 +23,9 @@ __Example output:__
 "Product name: OLED TV | Basic price: 1600 USD | Price after tax: 1936 USD | Tax percent: 21% | Tax amount: 336 USD."
 ```
 
-
+#### Solution for this homework:
+[Homework 04](https://codepen.io/janikjczcz/full/KKpvvKa)
+**Go to editor view to see the code**
 
 - - -
 
